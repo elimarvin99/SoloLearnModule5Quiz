@@ -1,0 +1,14 @@
+C:\Users\elima\Assorted C# Files\WordsSoloLearnChallengeModule5\WordsSoloLearnChallengeModule5\bin\Debug\netcoreapp3.1\WordsSoloLearnChallengeModule5.exe
+C:\Users\elima\Assorted C# Files\WordsSoloLearnChallengeModule5\WordsSoloLearnChallengeModule5\bin\Debug\netcoreapp3.1\WordsSoloLearnChallengeModule5.deps.json
+C:\Users\elima\Assorted C# Files\WordsSoloLearnChallengeModule5\WordsSoloLearnChallengeModule5\bin\Debug\netcoreapp3.1\WordsSoloLearnChallengeModule5.runtimeconfig.json
+C:\Users\elima\Assorted C# Files\WordsSoloLearnChallengeModule5\WordsSoloLearnChallengeModule5\bin\Debug\netcoreapp3.1\WordsSoloLearnChallengeModule5.runtimeconfig.dev.json
+C:\Users\elima\Assorted C# Files\WordsSoloLearnChallengeModule5\WordsSoloLearnChallengeModule5\bin\Debug\netcoreapp3.1\WordsSoloLearnChallengeModule5.dll
+C:\Users\elima\Assorted C# Files\WordsSoloLearnChallengeModule5\WordsSoloLearnChallengeModule5\bin\Debug\netcoreapp3.1\WordsSoloLearnChallengeModule5.pdb
+C:\Users\elima\Assorted C# Files\WordsSoloLearnChallengeModule5\WordsSoloLearnChallengeModule5\obj\Debug\netcoreapp3.1\WordsSoloLearnChallengeModule5.csproj.AssemblyReference.cache
+C:\Users\elima\Assorted C# Files\WordsSoloLearnChallengeModule5\WordsSoloLearnChallengeModule5\obj\Debug\netcoreapp3.1\WordsSoloLearnChallengeModule5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elima\Assorted C# Files\WordsSoloLearnChallengeModule5\WordsSoloLearnChallengeModule5\obj\Debug\netcoreapp3.1\WordsSoloLearnChallengeModule5.AssemblyInfoInputs.cache
+C:\Users\elima\Assorted C# Files\WordsSoloLearnChallengeModule5\WordsSoloLearnChallengeModule5\obj\Debug\netcoreapp3.1\WordsSoloLearnChallengeModule5.AssemblyInfo.cs
+C:\Users\elima\Assorted C# Files\WordsSoloLearnChallengeModule5\WordsSoloLearnChallengeModule5\obj\Debug\netcoreapp3.1\WordsSoloLearnChallengeModule5.csproj.CoreCompileInputs.cache
+C:\Users\elima\Assorted C# Files\WordsSoloLearnChallengeModule5\WordsSoloLearnChallengeModule5\obj\Debug\netcoreapp3.1\WordsSoloLearnChallengeModule5.dll
+C:\Users\elima\Assorted C# Files\WordsSoloLearnChallengeModule5\WordsSoloLearnChallengeModule5\obj\Debug\netcoreapp3.1\WordsSoloLearnChallengeModule5.pdb
+C:\Users\elima\Assorted C# Files\WordsSoloLearnChallengeModule5\WordsSoloLearnChallengeModule5\obj\Debug\netcoreapp3.1\WordsSoloLearnChallengeModule5.genruntimeconfig.cache
